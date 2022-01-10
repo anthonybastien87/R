@@ -1,0 +1,17 @@
+
+     // initialize sampling-routines at the start of the production run
+     SampleInfraRedSpectra(INITIALIZE);
+     SampleMeanSquareDisplacementOrderN(INITIALIZE);
+     SampleOnsagerMeanSquareDisplacementOrderN(INITIALIZE);
+     SampleRadialDistributionFunction(INITIALIZE);
+     SampleFrameworkSpacingHistogram(INITIALIZE);
+     SamplePositionHistogram(INITIALIZE);
+     SampleNumberOfMoleculesHistogram(INITIALIZE);
+     SampleEnergyHistogram(INITIALIZE);
+     SampleDensityProfile3DVTKGrid(INITIALIZE);
+     SampleEndToEndDistanceHistogram(INITIALIZE);
+     SampleMoleculePropertyHistogram(INITIALIZE);
+     SamplePDBMovies(INITIALIZE);
+     SampleDcTSTConfigurationFiles(INITIALIZE);
+     SampleFreeEnergyProfile(INITIALIZE);
+     SampleCationAndAdsorptionSites(INITIALIZE);
